@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doctor Plant</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Welcome to Doctor Plant</h1>
+    <p>Your health, naturally! Choose your health issue below:</p>
+    <a href="category.html">Go to Category Selection</a>
+</body>
+</html>

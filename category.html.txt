@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Category Selection - Doctor Plant</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Select a Health Category</h1>
+    <form action="questions.html">
+        <label for="headache">Headache</label>
+        <input type="radio" id="headache" name="category" value="headache">
+        
+        <label for="digestion">Digestion</label>
+        <input type="radio" id="digestion" name="category" value="digestion">
+        
+        <label for="periods">Periods</label>
+        <input type="radio" id="periods" name="category" value="periods">
+        
+        <label for="skin">Skin Issues</label>
+        <input type="radio" id="skin" name="category" value="skin">
+        
+        <button type="submit">Next</button>
+    </form>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Category Selection - Doctor Plant</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Select a Health Category</h1>
+    <form action="questions.html">
+        <label for="headache">Headache</label>
+        <input type="radio" id="headache" name="category" value="headache">
+        
+        <label for="digestion">Digestion</label>
+        <input type="radio" id="digestion" name="category" value="digestion">
+        
+        <label for="periods">Periods</label>
+        <input type="radio" id="periods" name="category" value="periods">
+        
+        <label for="skin">Skin Issues</label>
+        <input type="radio" id="skin" name="category" value="skin">
+        
+        <button type="submit">Next</button>
+    </form>
+</body>
+</html>

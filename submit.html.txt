@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Results - Doctor Plant</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Your Health Recommendations</h1>
+    <p>Based on your answers, here are some recommendations:</p>
+
+    <ul>
+        <li>Eat more leafy greens like spinach and kale.</li>
+        <li>Consider drinking ginger tea for digestion.</li>
+        <li>Use medicinal plants like peppermint for skin relief.</li>
+    </ul>
+
+    <p>Thank you for using Doctor Plant!</p>
+</body>
+</html>

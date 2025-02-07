@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Health Questions - Doctor Plant</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Health Questions</h1>
+    <p>Please answer the following questions:</p>
+
+    <form action="submit.html" method="POST">
+
+        <!-- Question 1 -->
+        <label for="breathless">Do you feel breathless while climbing stairs?</label>
+        <input type="radio" id="yes" name="breathless" value="yes"> Yes
+        <input type="radio" id="no" name="breathless" value="no"> No
+
+        <br><br>
+
+        <!-- Question 2 -->
+        <label for="fatigue">Do you often feel fatigued during the day?</label>
+        <input type="radio" id="yes" name="fatigue" value="yes"> Yes
+        <input type="radio" id="no" name="fatigue" value="no"> No
+
+        <br><br>
+
+        <!-- Submit Button -->
+        <button type="submit">Submit</button>
+
+    </form>
+</body>
+</html>
